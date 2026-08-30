@@ -34,4 +34,4 @@ This Tableau project analyzes Global Superstore data using moving averages and r
 
 ## Tableau Public
 
-[View Interactive Tableau Dashboard] https://public.tableau.com/views/GlobalSuperstoreSalesProfitAnalysis_17880849953920/Sheet13?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[View Interactive Tableau Visualizations] https://public.tableau.com/views/GlobalSuperstoreSalesProfitAnalysis_17880849953920/Sheet13?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
